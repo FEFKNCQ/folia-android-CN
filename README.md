@@ -4,7 +4,7 @@
 >
 > **夸克网盘**：https://pan.quark.cn/s/0c7420705e98
 >
-> 也可在 [本仓库 Releases](https://github.com/FEFKNCQ/folia-android/releases) 下载。
+> 也可在 [本仓库 Releases](https://github.com/FEFKNCQ/folia-android-CN/releases) 下载。
 
 
 # Folia 安卓版 (folia-android)
